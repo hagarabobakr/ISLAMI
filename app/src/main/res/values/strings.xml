@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ISLAMI</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sura">SURA</string>
+    <string name="suraname">SuraName</string>
+    <string name="quran_icon">quran_icon</string>
+</resources>
